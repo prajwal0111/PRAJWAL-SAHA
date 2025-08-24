@@ -13,7 +13,7 @@
 
 ### 🛠️ About Me
 - 🔭 I’m currently working on **[Alumni Connect Website](https://github.com/prajwal0111/alumniconnectwebsite.git)**  
-- 👨‍💻 Check out my projects at **[My Portfolio](https://lnkd.in/d5a_Dzqt)**  
+- 👨‍💻 Check out my projects at **[My Portfolio](https://myportfolio-d6737.web.app/)**  
 - 📫 Reach me at: **sahaprajwal123@gmail.com**  
 - ⚡ Fun fact: **I’m funny 😎**
 
