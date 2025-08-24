@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2704414/screenshots/7461397/media/4b7f96b111d3b23c8a4a3646ae263133.gif" alt="Coding" width="400" />
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="400" />
 </p>
 
 ---
