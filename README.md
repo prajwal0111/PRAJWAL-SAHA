@@ -12,6 +12,9 @@
 ---
 
 ### 🛠️ About Me
+- Name: Prajwal Saha
+- College: Sister Nivedita University
+- Year: 2nd year student
 - 🔭 I’m currently working on **[Alumni Connect Website](https://github.com/prajwal0111/alumniconnectwebsite.git)**  
 - 👨‍💻 Check out my projects at **[My Portfolio](https://myportfolio-d6737.web.app/)**  
 - 📫 Reach me at: **sahaprajwal123@gmail.com**  
