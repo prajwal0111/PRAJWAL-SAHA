@@ -58,9 +58,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prajwal0111&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal0111&theme=dracula" alt="GitHub Streak" />
-</p>
 
 ---
 
