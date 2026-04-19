@@ -1,69 +1,156 @@
-<h1 align="center">Hi 👋, I'm Prajwal Saha</h1>
-<h3 align="center">A passionate full stack developer from India 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwal0111&label=Profile%20Views&color=0e75b6&style=flat" alt="prajwal0111" />
-</p>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Prajwal%20Saha&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20India&descAlignY=58&descSize=20&animation=twinkling" />
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="400" />
-</p>
+<!-- Typing Animation — no broken git.io wrapper -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=620&lines=Hey+there!+I'm+Prajwal+%F0%9F%91%8B;2nd+Year+CS+Student+%40+SNU;Full+Stack+Web+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%A1;Building+Cool+Stuff+One+Line+at+a+Time..." alt="Typing SVG" />
 
----
+<br/><br/>
 
-### 🛠️ About Me
-- Name: Prajwal Saha
-- College: Sister Nivedita University
-- Year: 2nd year student
-- 🔭 I’m currently working on **[Alumni Connect Website](https://github.com/prajwal0111/alumniconnectwebsite.git)**  
-- 👨‍💻 Check out my projects at **[My Portfolio](https://myportfolio-d6737.web.app/)**  
-- 📫 Reach me at: **sahaprajwal123@gmail.com**  
-- ⚡ Fun fact: **I’m funny 😎**
+<!-- Badges — emoji removed from URL to prevent render breaks -->
+<img src="https://komarev.com/ghpvc/?username=prajwal0111&label=Profile+Views&color=7B61FF&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-7B61FF?style=for-the-badge&logo=rocket&logoColor=white" />
+
+</div>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://x.com/prajwalsaha2006" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/prajwal-saha-6a4256322" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://instagram.com/sahaprajwal" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/prajwalsaha/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
+
+### 🧠 About Me
+
+```bash
+$ whoami
+  Prajwal Saha — Dev by passion, student by day
+
+$ cat info.json
+{
+  "college"  : "Sister Nivedita University",
+  "year"     : "2nd Year (B.Tech CSE)",
+  "location" : "Kolkata, India",
+  "email"    : "sahaprajwal123@gmail.com",
+  "fun_fact" : "I debug my life with console.log() 😎"
+}
+
+$ cat current_project.txt
+  Alumni Connect Website
+```
+
+- 🔭 Building **[Alumni Connect Website](https://github.com/prajwal0111/alumniconnectwebsite.git)**
+- 🌐 Portfolio at **[myportfolio-d6737.web.app](https://myportfolio-d6737.web.app/)**
+- 📬 Reach me: **sahaprajwal123@gmail.com**
+- ⚡ Fun fact: *I'm genuinely funny. Trust me.*
+
+<br clear="right"/>
 
 ---
 
-### 💻 Languages and Tools
-<p align="center">
-  <a href="https://aws.amazon.com/amplify/" target="_blank"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/></a>
-</p>
+### 🛠️ Languages & Tech Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) &nbsp; ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white) &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| **Scripting** | ![Shell Script](https://img.shields.io/badge/Shell_Script-1c1c1c?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **Database** | ![Oracle](https://img.shields.io/badge/Oracle_DBMS-F80000?style=for-the-badge&logo=oracle&logoColor=white) |
+
+</div>
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwal0111&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwal0111&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-</p>
+### 🧩 Problem Solving Skills
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║            PROBLEM SOLVING ARSENAL                   ║
+╠══════════════════════════════════════════════════════╣
+║  Data Structures   ██████████████░░░░  70%           ║
+║  Algorithms        █████████████░░░░░  65%           ║
+║  OOP Concepts      ████████████████░░  80%           ║
+║  DBMS & SQL        ███████████████░░░  75%           ║
+║  Logical Thinking  █████████████████░  85%           ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+| Skill | Details |
+|:---|:---|
+| 🔢 **Data Structures** | Arrays, Linked Lists, Stacks, Queues, Trees, Graphs |
+| ⚙️ **Algorithms** | Sorting, Searching, Recursion, Dynamic Programming |
+| 🧱 **OOP** | Abstraction, Encapsulation, Inheritance, Polymorphism |
+| 🗄️ **DBMS** | Normalization, ER Diagrams, SQL Queries, PL/SQL (Oracle) |
+| 🧠 **Competitive** | Active on **[LeetCode](https://leetcode.com/u/prajwalsaha/)** — solving DSA problems daily |
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Built with ❤️ by Prajwal Saha</i>
-</p>
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=prajwal0111&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" />
+&nbsp;&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal0111&layout=compact&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9" />
+
+<br/><br/>
+
+<!-- streak-stats.demolab.com is stable; herokuapp version is often down -->
+<img width="78%" src="https://streak-stats.demolab.com/?user=prajwal0111&theme=tokyonight&hide_border=true&background=0d1117&stroke=7B61FF&ring=7B61FF&fire=FF6B6B&currStreakLabel=7B61FF" />
+
+<br/><br/>
+
+<img width="78%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal0111&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+### 🌐 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/prajwalsaha2006)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-saha-6a4256322)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sahaprajwal)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prajwalsaha/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://myportfolio-d6737.web.app/)
+
+</div>
+
+---
+
+### 💡 Dev Philosophy
+
+<div align="center">
+
+> *"The best code is not the one that runs fastest —*
+> *it's the one that makes the next developer smile."*
+>
+> — **Write code for humans first, machines second.**
+
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=twinkling" />
+
+<div align="center">
+  <sub> Crafted with 💜 by <strong>Prajwal Saha</strong> — Keep building, keep shipping.</sub>
+</div>
